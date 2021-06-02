@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/g-truc/glm/releases/download/0.9.9.7/glm-0.9.9.7.zip'
+tag='MD5=da4740b5b41a1e2ccb2955af74e7c298'

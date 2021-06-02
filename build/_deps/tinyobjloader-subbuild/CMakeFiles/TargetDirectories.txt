@@ -1,0 +1,3 @@
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-subbuild/CMakeFiles/rebuild_cache.dir
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-subbuild/CMakeFiles/edit_cache.dir
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-subbuild/CMakeFiles/tinyobjloader-populate.dir

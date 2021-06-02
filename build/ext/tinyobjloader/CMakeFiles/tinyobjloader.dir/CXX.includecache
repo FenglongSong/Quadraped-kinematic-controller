@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-src/tiny_obj_loader.cc
+tiny_obj_loader.h
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-src/tiny_obj_loader.h
+
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-src/tiny_obj_loader.h
+map
+-
+string
+-
+vector
+-
+cassert
+-
+cctype
+-
+cmath
+-
+cstddef
+-
+cstdlib
+-
+cstring
+-
+limits
+-
+utility
+-
+fstream
+-
+sstream
+-
+

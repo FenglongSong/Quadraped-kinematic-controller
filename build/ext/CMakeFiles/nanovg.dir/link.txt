@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnanovg.a CMakeFiles/nanovg.dir/__/_deps/nanovg-src/src/nanovg.c.o
+/usr/bin/ranlib libnanovg.a

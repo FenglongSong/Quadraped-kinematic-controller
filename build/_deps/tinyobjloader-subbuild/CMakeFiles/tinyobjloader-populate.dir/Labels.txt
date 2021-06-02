@@ -1,0 +1,14 @@
+# Target labels
+ tinyobjloader-populate
+# Source files and their labels
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-subbuild/CMakeFiles/tinyobjloader-populate
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-subbuild/CMakeFiles/tinyobjloader-populate.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-subbuild/CMakeFiles/tinyobjloader-populate-complete.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-subbuild/tinyobjloader-populate-prefix/src/tinyobjloader-populate-stamp/tinyobjloader-populate-install.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-subbuild/tinyobjloader-populate-prefix/src/tinyobjloader-populate-stamp/tinyobjloader-populate-mkdir.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-subbuild/tinyobjloader-populate-prefix/src/tinyobjloader-populate-stamp/tinyobjloader-populate-download.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-subbuild/tinyobjloader-populate-prefix/src/tinyobjloader-populate-stamp/tinyobjloader-populate-update.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-subbuild/tinyobjloader-populate-prefix/src/tinyobjloader-populate-stamp/tinyobjloader-populate-patch.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-subbuild/tinyobjloader-populate-prefix/src/tinyobjloader-populate-stamp/tinyobjloader-populate-configure.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-subbuild/tinyobjloader-populate-prefix/src/tinyobjloader-populate-stamp/tinyobjloader-populate-build.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-subbuild/tinyobjloader-populate-prefix/src/tinyobjloader-populate-stamp/tinyobjloader-populate-test.rule

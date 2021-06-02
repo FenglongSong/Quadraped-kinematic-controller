@@ -1,0 +1,3 @@
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/CMakeFiles/rebuild_cache.dir
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/CMakeFiles/edit_cache.dir
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/CMakeFiles/nanovg-populate.dir

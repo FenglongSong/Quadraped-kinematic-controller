@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test.rule

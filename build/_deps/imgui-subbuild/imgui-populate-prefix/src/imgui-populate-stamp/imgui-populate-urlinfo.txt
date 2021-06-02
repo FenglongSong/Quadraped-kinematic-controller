@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/ocornut/imgui/archive/v1.81.zip'
+tag='MD5=78af0cf170fb3f2a431eb39cac7f55b8'

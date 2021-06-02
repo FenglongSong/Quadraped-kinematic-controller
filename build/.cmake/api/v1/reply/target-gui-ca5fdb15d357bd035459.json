@@ -1,0 +1,421 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "src/libs/gui/libgui.a"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"create_crl_library",
+			"add_dependencies",
+			"target_compile_definitions",
+			"target_include_directories",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"src/libs/gui/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 80,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 37,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 38,
+				"parent" : 1
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk"
+				},
+				{
+					"fragment" : "-std=gnu++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "CMM_IMGUI_FONT_FOLDER=\"/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/imgui-src/misc/fonts\""
+				},
+				{
+					"backtrace" : 4,
+					"define" : "CRL_DATA_FOLDER=\"/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/data\""
+				},
+				{
+					"backtrace" : 4,
+					"define" : "CRL_SHADER_FOLDER=\"/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/src/libs/gui/shaders\""
+				},
+				{
+					"backtrace" : 4,
+					"define" : "IMGUI_IMPL_OPENGL_LOADER_GLAD"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/src/libs/gui/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/src/libs/gui/imgui_widgets/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glm-src/glm/.."
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glm-src/glm"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/ext/glad/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glfw-src/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/imgui-src"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/ext/stb_image"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-src"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/eigen-src"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/src/libs/utils/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "imgui::@a9f99adfd9f636cea434"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "glad::@395c76cf0743a1c2a345"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "glfw::@51deef6ddf181c39c9a3"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "tinyobjloader::@cdc8e8d9a2991e5235d6"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "utils::@91161f14a334b45ef1c7"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "Libs"
+	},
+	"id" : "gui::@2ed5f77f88dab0313254",
+	"name" : "gui",
+	"nameOnDisk" : "libgui.a",
+	"paths" : 
+	{
+		"build" : "src/libs/gui",
+		"source" : "src/libs/gui"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/gui/imgui_widgets/ImGuizmo.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/imgui_widgets/include/imgui_widgets/ImGuizmo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/include/gui/application.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/include/gui/camera.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/include/gui/guiMath.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/include/gui/imgui_impl_glfw.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/include/gui/imgui_impl_opengl3.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/include/gui/inputstate.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/include/gui/light.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/include/gui/mesh.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/include/gui/model.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/include/gui/plots.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/include/gui/renderer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/include/gui/shader.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/include/gui/shadow_casting_light.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/include/gui/shadow_map_fbo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/shaders/basic_lighting.frag",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/shaders/basic_lighting.vert",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/shaders/basic_shadow_lighting.frag",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/shaders/compute_shading.frag",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/shaders/optDemo.frag",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/shaders/optDemo.vert",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/shaders/render_shadow.frag",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/shaders/render_shadow.vert",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/gui/shaders/texture.vert",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/gui/src/application.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/gui/src/imgui_impl_glfw.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/gui/src/imgui_impl_opengl3.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/gui/src/inputstate.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/gui/src/mesh.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/gui/src/model.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/gui/src/shadow_map_fbo.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

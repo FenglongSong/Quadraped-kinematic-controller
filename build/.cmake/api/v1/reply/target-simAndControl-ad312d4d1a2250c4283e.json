@@ -1,0 +1,406 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "src/libs/simAndControl/libsimAndControl.a"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"create_crl_library",
+			"target_link_libraries",
+			"add_dependencies",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"src/libs/simAndControl/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 54,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 38,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 37,
+				"parent" : 1
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk"
+				},
+				{
+					"fragment" : "-std=gnu++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "CMM_IMGUI_FONT_FOLDER=\"/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/imgui-src/misc/fonts\""
+				},
+				{
+					"backtrace" : 3,
+					"define" : "CRL_DATA_FOLDER=\"/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/data\""
+				},
+				{
+					"backtrace" : 3,
+					"define" : "CRL_SHADER_FOLDER=\"/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/src/libs/gui/shaders\""
+				},
+				{
+					"backtrace" : 3,
+					"define" : "IMGUI_IMPL_OPENGL_LOADER_GLAD"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/src/libs/simAndControl"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/src/libs/utils/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/eigen-src"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/src/libs/gui/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/src/libs/gui/imgui_widgets/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glm-src/glm/.."
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glm-src/glm"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/ext/glad/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/glfw-src/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/imgui-src"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/ext/stb_image"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/tinyobjloader-src"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				10,
+				12,
+				14,
+				16,
+				18,
+				20,
+				24,
+				26,
+				28
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "imgui::@a9f99adfd9f636cea434"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "glad::@395c76cf0743a1c2a345"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "glfw::@51deef6ddf181c39c9a3"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "tinyobjloader::@cdc8e8d9a2991e5235d6"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "utils::@91161f14a334b45ef1c7"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "gui::@2ed5f77f88dab0313254"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "Libs"
+	},
+	"id" : "simAndControl::@f890cc0ccef9098233c9",
+	"name" : "simAndControl",
+	"nameOnDisk" : "libsimAndControl.a",
+	"paths" : 
+	{
+		"build" : "src/libs/simAndControl",
+		"source" : "src/libs/simAndControl"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				11,
+				13,
+				15,
+				17,
+				19,
+				21,
+				22,
+				23,
+				25,
+				27,
+				29
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				10,
+				12,
+				14,
+				16,
+				18,
+				20,
+				24,
+				26,
+				28
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/kinematics/EndEffector.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/kinematics/IK_Solver.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/locomotion/BodyFrame.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/locomotion/FootFallPattern.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/locomotion/KinematicTrackingController.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/locomotion/LeggedRobot.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/locomotion/LocomotionController.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/locomotion/LocomotionPlannerHelpers.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/locomotion/LocomotionTrajectoryPlanner.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/locomotion/SimpleLocomotionTrajectoryPlanner.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/simAndControl/robot/GeneralizedCoordinatesRobotRepresentation.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/robot/GeneralizedCoordinatesRobotRepresentation.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/simAndControl/robot/RB.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/robot/RB.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/simAndControl/robot/RBJoint.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/robot/RBJoint.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/simAndControl/robot/RBLoader.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/robot/RBLoader.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/simAndControl/robot/RBProperties.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/robot/RBProperties.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/simAndControl/robot/RBRenderer.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/robot/RBRenderer.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/robot/RBSaver.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/robot/RBState.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/simAndControl/robot/RBUtils.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/robot/RBUtils.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/simAndControl/robot/Robot.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/robot/Robot.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "src/libs/simAndControl/robot/RobotState.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "src/libs/simAndControl/robot/RobotState.h",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

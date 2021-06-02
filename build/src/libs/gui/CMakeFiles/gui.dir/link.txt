@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgui.a CMakeFiles/gui.dir/imgui_widgets/ImGuizmo.cpp.o CMakeFiles/gui.dir/src/application.cpp.o CMakeFiles/gui.dir/src/imgui_impl_glfw.cpp.o CMakeFiles/gui.dir/src/imgui_impl_opengl3.cpp.o CMakeFiles/gui.dir/src/inputstate.cpp.o CMakeFiles/gui.dir/src/mesh.cpp.o CMakeFiles/gui.dir/src/model.cpp.o CMakeFiles/gui.dir/src/shadow_map_fbo.cpp.o
+/usr/bin/ranlib libgui.a

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/CMakeFiles/nanovg-populate"
+		},
+		{
+			"file" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/CMakeFiles/nanovg-populate.rule"
+		},
+		{
+			"file" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/CMakeFiles/nanovg-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-install.rule"
+		},
+		{
+			"file" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-download.rule"
+		},
+		{
+			"file" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-update.rule"
+		},
+		{
+			"file" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-build.rule"
+		},
+		{
+			"file" : "/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nanovg-populate"
+		],
+		"name" : "nanovg-populate"
+	}
+}

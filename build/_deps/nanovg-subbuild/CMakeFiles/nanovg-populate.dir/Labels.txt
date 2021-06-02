@@ -1,0 +1,14 @@
+# Target labels
+ nanovg-populate
+# Source files and their labels
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/CMakeFiles/nanovg-populate
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/CMakeFiles/nanovg-populate.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/CMakeFiles/nanovg-populate-complete.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-install.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-mkdir.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-download.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-update.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-patch.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-configure.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-build.rule
+/Users/fenglongsong/Documents/GitHub/a2-FenglongSong/build/_deps/nanovg-subbuild/nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-test.rule

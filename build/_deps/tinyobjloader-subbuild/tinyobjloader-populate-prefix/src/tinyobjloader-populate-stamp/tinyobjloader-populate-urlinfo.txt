@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/tinyobjloader/tinyobjloader/archive/v2.0-rc1.zip'
+tag='MD5=f660a9f91fc2ea5c4f33d7530f6a69bc'

@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+3acbe8057527a925db9bba8a5b0ce930 CMakeFiles/nanovg-populate
+2c0bcccc2cf82ed015d739707d50ed79 CMakeFiles/nanovg-populate-complete
+933fc5ebcfe89c95ed346f032805b776 nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-build
+92ec09d2e361e26b5b9a1a7d25ed7357 nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-configure
+ca357a67c02c13f87752f963d8207f6c nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-download
+2d6bace7bad87457b96d6b41233ea252 nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-install
+e30a52904e28623b349fc0d99a0418f7 nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-mkdir
+39f6f95e7fe7657d80b502ea0740f871 nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-patch
+d9760ca08f8a892acaf352d2b6647605 nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-test
+ace9a2e34650476c210535ba0b59b82f nanovg-populate-prefix/src/nanovg-populate-stamp/nanovg-populate-update
